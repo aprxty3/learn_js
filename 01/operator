@@ -1,0 +1,26 @@
+let age = 25;
+ 
+// Unary operator
+typeof age;
+ 
+// Binary operator
+5 + 4;
+10 / 2;
+age = 30;
+ 
+// Ternary operator (conditional operator)
+(age < 18) ? 'You are too young!' : 'Welcome onboard!'; 
+
+// Digunakan untuk menginisiasi nilai
+const name = 'Dicoding';
+let location = 'Bandung';
+
+// Digunakan untuk mengubah nilai
+location = 'Jakarta';
+
+6 + 5; // mengembalikan 11
+7 - 2; // mengembalikan 5
+8 * 5; // mengembalikan 40
+10 / 3; // mengembalikan 3.33
+10 % 2; // mengembalikan 0
+2  (10 + 2); // mengembalikan 24
